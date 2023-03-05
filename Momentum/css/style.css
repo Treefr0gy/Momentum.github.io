@@ -1,0 +1,21 @@
+.hidden{
+    display: none;
+}
+body{
+    color: white;
+    background-size: cover;
+}
+ul{
+    font-size: large    ;
+    font-weight: bold;
+}
+#todo-form input{
+    color: white;
+}
+#todo-form input::placeholder{
+    color: white;
+}
+#todo-list button{
+    border: none;
+    background: transparent;
+}
